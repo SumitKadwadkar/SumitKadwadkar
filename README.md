@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @SumitKadwadkar
+- 👀 I’m interested in Trading...
+- 🌱 I’m currently learning Algorithmic Trading ...
+- 📫 How to reach me - sumitkadwadkar11@gmail.com ...
+
+<!---
+SumitKadwadkar/SumitKadwadkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
